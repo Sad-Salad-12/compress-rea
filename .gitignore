@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+._*
+
+# Built app and backups made by Build.command
+*.app
+Previous-Build-*.app
+dist/
+
+# Engine binaries (built by Engine-Sources/rebuild-engine.sh or taken from a Release)
+Engine/ffmpeg
+Engine/ffprobe
+
+# Upstream source archives (attached to each Release; fetch with Engine-Sources/fetch-sources.sh)
+Engine-Sources/*.tar.xz
+Engine-Sources/*.tar.gz
+
+# Test output
+Tests/.build/

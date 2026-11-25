@@ -1,0 +1,4 @@
+FFmpeg RSA signature verified via PGPy.
+Expected release fingerprint: FCF986EA15E6E293A5644F10B4322F04D67658D8
+Signer: B4322F04D67658D8
+Verification: <SignatureVerification(True)>
